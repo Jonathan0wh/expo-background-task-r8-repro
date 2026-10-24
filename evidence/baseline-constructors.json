@@ -1,0 +1,17 @@
+{
+  "apk": "baseline-release.apk",
+  "classes": {
+    "Landroidx/work/impl/WorkDatabase_Impl;": {
+      "found": true,
+      "constructors": []
+    },
+    "Landroidx/work/OverwritingInputMerger;": {
+      "found": true,
+      "constructors": []
+    },
+    "Landroidx/work/ArrayCreatingInputMerger;": {
+      "found": true,
+      "constructors": []
+    }
+  }
+}
