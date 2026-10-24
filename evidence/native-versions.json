@@ -1,0 +1,5 @@
+{
+  "META-INF/com/android/build/gradle/app-metadata.properties": "appMetadataVersion=1.1\nandroidGradlePluginVersion=9.2.1",
+  "META-INF/androidx.work_work-runtime.version": "2.9.1",
+  "META-INF/androidx.room_room-runtime.version": "2.5.0"
+}

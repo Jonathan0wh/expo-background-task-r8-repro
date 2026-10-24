@@ -1,0 +1,25 @@
+{
+  "environment": {
+    "expo": "58.0.17",
+    "expo-background-task": "58.0.11",
+    "expo-task-manager": "58.0.12",
+    "react-native": "0.88.0",
+    "agp": "9.2.1",
+    "gradle": "9.4.1",
+    "r8": "9.2.14",
+    "workmanager": "2.9.1",
+    "room": "2.5.0",
+    "node": "24.22.1",
+    "jdk": "17.0.20.1",
+    "android_emulator": "Pixel 9, Android 15, arm64-v8a"
+  },
+  "minify_enabled_in_both_builds": true,
+  "baseline": "Crashes before React Native renders; WorkDatabase_Impl has no constructor.",
+  "patched": "Three cold launches succeeded and the default App.js screen rendered. Constructors are present.",
+  "background_task_execution_tested": false,
+  "expo_doctor": "20/20 checks passed",
+  "apk_sha256": {
+    "baseline": "9860241d4ca205408ec0e74f8abdabf67a15326a066f318a181522a667d3d95e",
+    "patched": "7720b845378585b6eb14e7a5aa243193ac76c16dc8b43d7d9dc5cfeb7e1d0e99"
+  }
+}

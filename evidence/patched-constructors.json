@@ -1,0 +1,23 @@
+{
+  "apk": "patched-release.apk",
+  "classes": {
+    "Landroidx/work/impl/WorkDatabase_Impl;": {
+      "found": true,
+      "constructors": [
+        "type          : '()V'"
+      ]
+    },
+    "Landroidx/work/OverwritingInputMerger;": {
+      "found": true,
+      "constructors": [
+        "type          : '()V'"
+      ]
+    },
+    "Landroidx/work/ArrayCreatingInputMerger;": {
+      "found": true,
+      "constructors": [
+        "type          : '()V'"
+      ]
+    }
+  }
+}

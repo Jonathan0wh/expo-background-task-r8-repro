@@ -1,0 +1,29 @@
+[
+  {
+    "attempt": 1,
+    "pid_before_launch": "",
+    "launch": "Starting: Intent { cmp=com.example.expobackgroundtaskr8repro/.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: com.example.expobackgroundtaskr8repro/.MainActivity\nTotalTime: 123\nWaitTime: 123\nComplete",
+    "pid_after_4_seconds": "10321",
+    "foreground": [
+      "topResumedActivity=ActivityRecord{2f63c8d u0 com.example.expobackgroundtaskr8repro/.MainActivity t33}"
+    ]
+  },
+  {
+    "attempt": 2,
+    "pid_before_launch": "",
+    "launch": "Starting: Intent { cmp=com.example.expobackgroundtaskr8repro/.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: com.example.expobackgroundtaskr8repro/.MainActivity\nTotalTime: 104\nWaitTime: 107\nComplete",
+    "pid_after_4_seconds": "10381",
+    "foreground": [
+      "topResumedActivity=ActivityRecord{468b47c u0 com.example.expobackgroundtaskr8repro/.MainActivity t34}"
+    ]
+  },
+  {
+    "attempt": 3,
+    "pid_before_launch": "",
+    "launch": "Starting: Intent { cmp=com.example.expobackgroundtaskr8repro/.MainActivity }\nStatus: ok\nLaunchState: COLD\nActivity: com.example.expobackgroundtaskr8repro/.MainActivity\nTotalTime: 101\nWaitTime: 103\nComplete",
+    "pid_after_4_seconds": "10437",
+    "foreground": [
+      "topResumedActivity=ActivityRecord{82f1b2a u0 com.example.expobackgroundtaskr8repro/.MainActivity t35}"
+    ]
+  }
+]
